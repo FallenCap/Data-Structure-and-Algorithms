@@ -46,7 +46,7 @@ public class Insert {
 			newNode.next = null;
 		}
 		
-		//Method for inserting new node at a giving point.
+		//Method for inserting new node at a given point.
 		public void insertPosition(int pos, int data) {
 			Node newNode = new Node();
 			Node currentNode = head;
