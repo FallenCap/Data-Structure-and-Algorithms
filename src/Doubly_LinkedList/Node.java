@@ -7,6 +7,6 @@ class Node {
 	
 	//Method for display nodes of the linkedlist.
 	public void displayNode() {
-		System.out.print(" { " + data + " } ");
+		System.out.print(" { " + data + " } <-->");
 	}
 }
